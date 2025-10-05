@@ -1,6 +1,6 @@
 # Aetheria – A Sustainable Space Station for Tourism, Research & Education
 
-![Insert Logo Here](path/to/logo.png)
+![Logo](src/assets/logo.png) 
 
 ---
 
